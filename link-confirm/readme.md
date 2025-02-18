@@ -11,7 +11,7 @@ HTML의 `<head>` 부분에 다음과 같이 CDN을 작성하시면 됩니다.
 
 ```html
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/aransung/cdn/link-confirm/index.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/devarsung/cdn/link-confirm/index.js"></script>
 ```
 
 ## usage
